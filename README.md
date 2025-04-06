@@ -1,10 +1,10 @@
 # Minecraft RCON MCP Server
 
-A Spring Boot application that provides a bridge between Spring AI's Model Context Protocol (MCP) and a Minecraft server's RCON interface, allowing AI models to send commands to a Minecraft server.
+A Spring Boot application that provides a bridge between Model Context Protocol (MCP) and a Minecraft server's RCON interface, allowing AI models to send commands to a Minecraft server. Built with SpringAI.
 
 ## Description
 
-This project enables AI models using Spring AI's MCP to interact with a Minecraft server through the RCON protocol. It provides a simple tool that can send commands to the Minecraft server and receive responses, making it possible for AI models to control and query the Minecraft server.
+This project enables AI models using Spring AI's MCP functionality to interact with a Minecraft server through the RCON protocol. It provides a simple tool that can send commands to the Minecraft server and receive responses, making it possible for AI models to control and query the Minecraft server.
 
 ## Prerequisites
 
